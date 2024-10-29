@@ -1,7 +1,9 @@
 ## Hispania Visigoda
 
 La Hispania visigoda es la denominación del período histórico que abarca el asentamiento del pueblo visigodo en la península ibérica, entre mediados del siglo V y comienzos del siglo VIII. Sociedad de la Hispania Visigoda
-Sociedad de la Hispania Visigoda
+
+## Sociedad de la Hispania Visigoda
+
 E. A. Thompson afirma en su obra fundamental Los godos en Hispania (1969) que «la única fuente continua de información sobre los reinados de los reyes de la península ibérica desde Gesaleico a Liuva I (507-568) es la Historia de los reyes de los godos, vándalos y suevos de San Isidoro de Sevilla».
 
 ## Aspectos demográficos
